@@ -1,10 +1,10 @@
 package internal
 
 import (
-	"github.com/johnfercher/maroto/internal/fpdf"
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/nareshrajaram/maroto/internal/fpdf"
+	"github.com/nareshrajaram/maroto/pkg/color"
+	"github.com/nareshrajaram/maroto/pkg/consts"
+	"github.com/nareshrajaram/maroto/pkg/props"
 )
 
 // Line is the abstraction which deals with lines.

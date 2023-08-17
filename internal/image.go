@@ -6,9 +6,9 @@ import (
 	"errors"
 
 	"github.com/google/uuid"
-	"github.com/johnfercher/maroto/internal/fpdf"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/nareshrajaram/maroto/internal/fpdf"
+	"github.com/nareshrajaram/maroto/pkg/consts"
+	"github.com/nareshrajaram/maroto/pkg/props"
 	"github.com/jung-kurt/gofpdf"
 )
 
